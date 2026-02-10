@@ -11,7 +11,7 @@
 
 ### 🎮 我的世界，不止代码
 **洛谷** - 我的算法训练场 | [![Luogu](https://img.shields.io/badge/前往我的主页-1E90FF?style=flat&logo=luogu&logoColor=white)](https://www.luogu.com.cn/user/1361689)
-**Bilibili** - 学习与兴趣的集合地 | [![Bilibili](https://img.shields.io/badge/B站-@你的名字-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/1448526422)
+**Bilibili** - 学习与兴趣的集合地 | [![Bilibili](https://img.shields.io/badge/B站-@一列CR400BF-J-0003-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/1448526422)
 
 ---
 
